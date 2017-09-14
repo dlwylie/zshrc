@@ -11,7 +11,7 @@ bindkey "\e"m man-command-line
 # TODO: fix it, jeniouse~
 # echo-return-code() {
 #   echo
-  echo $?
+#   echo $?
 # }
 # zle -N echo-return-code
 # bindkey "\e"/ echo-return-code
