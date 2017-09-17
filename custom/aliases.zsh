@@ -5,6 +5,7 @@ alias mu="cd $HOME/mu"
 alias derp="cd $HOME/mu/derp"
 alias top='/usr/bin/htop'
 alias lynx='/usr/bin/w3m'
+alias google='/usr/bin/w3m https://www.google.com/'
 
 # Hey, shut up, I have only the one hand...
 alias curseofwar='/usr/games/curseofwar -dee -i4 -l2 -q1 -sp -T -W40'
