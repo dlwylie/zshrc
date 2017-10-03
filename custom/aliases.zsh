@@ -9,6 +9,7 @@ alias google='/usr/bin/w3m https://www.google.com/'
 alias book='w3m ~/.w3m/bookmark.html'
 alias bookmark='w3m ~/.w3m/bookmark.html'
 alias w3mbook='w3m ~/.w3m/bookmark.html'
+alias pdfs='dir *.pdf'
 
 # Hey, shut up, I have only the one hand...
 alias curseofwar='/usr/games/curseofwar -dee -i4 -l2 -q1 -sp -T -W40'
