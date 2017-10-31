@@ -10,6 +10,8 @@ alias book='w3m ~/.w3m/bookmark.html'
 alias bookmark='w3m ~/.w3m/bookmark.html'
 alias w3mbook='w3m ~/.w3m/bookmark.html'
 alias pdfs='dir *.pdf'
+alias j='jump'
+alias omz="cd $HOME/.oh-my-zsh/custom"
 # Hey, shut up, I have only the one hand...
 alias curseofwar='/usr/games/curseofwar -dee -i4 -l2 -q1 -sp -T -W40'
 alias cow='/usr/games/curseofwar -dee -i4 -l2 -q1 -sp -T -W40'
@@ -26,5 +28,6 @@ alias 600='chmod 600'
 alias 644='chmod 644'
 alias 700='chmod 700'
 alias 755='chmod 755'
+# TODO: This kills ./foo executables.  Maybe retool to filter out +x and do go±rwx?
 alias 644r='find . -type f ! -perm 644 -print0 | xargs -0 chmod 644'                                                              
 alias 755r='find . -type d ! -perm 755 -print0 | xargs -0 chmod 755'
