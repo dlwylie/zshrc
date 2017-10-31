@@ -6,7 +6,6 @@ man-command-line() {
 zle -N man-command-line
 # Defined shortcut keys: [Esc] m
 bindkey "\e"m man-command-line
-
 # dwylie - i can *almost* make this do what i want...
 # TODO: fix it, jeniouse~
 # echo-return-code() {
@@ -16,4 +15,3 @@ bindkey "\e"m man-command-line
 # zle -N echo-return-code
 # bindkey "\e"/ echo-return-code
 # bindkey "\e"\? echo-return-code
-
