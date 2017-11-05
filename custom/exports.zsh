@@ -7,3 +7,4 @@ export derp="$HOME/mu/derp"
 export DERP="$HOME/mu/derp"
 export non="$HOME/mu/derp/non-git"
 export NON="$HOME/mu/derp/non-git"
+export NETHACKOPTIONS='/home/dwylie/.nethackrc'
