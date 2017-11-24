@@ -16,7 +16,6 @@ alias w3mbook='/usr/bin/w3m ~/.w3m/bookmark.html'
 alias pdfs='dir *.pdf'
 alias j='jump'
 alias omz="cd $HOME/.oh-my-zsh/custom"
-alias snarf='vi ./snarf.txt'
 # Package abandoned for over seven years?  Okay!
 alias watchr='/usr/local/bin/observr'
 # In before "Aw, Snap!  Something went wrong while displaying this webpage."!
