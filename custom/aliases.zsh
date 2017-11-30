@@ -39,3 +39,6 @@ alias 755='chmod 755'
 # TODO: This kills ./foo executables.  Maybe retool to filter out +x / do go±rwx?
 alias 644r='find . -type f ! -perm 644 -print0 | xargs -0 chmod 644'                                                              
 alias 755r='find . -type d ! -perm 755 -print0 | xargs -0 chmod 755'
+# These don't work (at the moment?  blahblahCopiousFreeTimeblah...), so out they go.  SAD FACE
+alias vlc='omxplayer'
+alias mpv='omxplayer'
