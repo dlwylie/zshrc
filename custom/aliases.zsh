@@ -9,13 +9,16 @@ alias top='/usr/bin/htop'
 # Hey, guess what I've used for decades!
 alias lynx='/usr/bin/w3m'
 alias google='/usr/bin/w3m https://www.google.com/'
+alias wiki='/usr/bin/w3m https://en.wikipedia.org/'
 alias book='/usr/bin/w3m ~/.w3m/bookmark.html'
 alias bookmark='/usr/bin/w3m ~/.w3m/bookmark.html'
 alias bookmarks='/usr/bin/w3m ~/.w3m/bookmark.html'
 alias w3mbook='/usr/bin/w3m ~/.w3m/bookmark.html'
 alias pdfs='dir *.pdf'
+alias e='evince'
 alias j='jump'
 alias omz="cd $HOME/.oh-my-zsh/custom"
+alias xo='xdg-open'
 # Package abandoned for over seven years?  Okay!
 alias watchr='/usr/local/bin/observr'
 # In before "Aw, Snap!  Something went wrong while displaying this webpage."!
