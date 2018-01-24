@@ -19,6 +19,7 @@ alias e='evince'
 alias j='jump'
 alias omz="cd $HOME/.oh-my-zsh/custom"
 alias xo='xdg-open'
+alias -g W='| wc -l'
 # Package abandoned for over seven years?  Okay!
 alias watchr='/usr/local/bin/observr'
 # In before "Aw, Snap!  Something went wrong while displaying this webpage."!
